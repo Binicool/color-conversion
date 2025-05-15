@@ -1,2 +1,2 @@
 # Color-conversion math (under contruction)
-Converts color from various spaces from spectral reflectance
+Converts color among various color spaces starting from spectral reflectance
